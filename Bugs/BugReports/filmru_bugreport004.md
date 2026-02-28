@@ -9,8 +9,14 @@
 - The sorting function by parameters (“По дате” (By date), “По алфавиту” (Alphabetical)) is not available in the search bar. The basic search functionality works, but the stated parameters do not fulfill their purpose.
 
 ## Environment:
+
+### Desktop:
 - OS: Windows 11;
 - Browser: Microsoft Edge (version 145.0.3800.70).
+
+### Mobile:
+- OS: Android 13;
+- Browser: Google Chrome (version 145.0.7632.120).
 
 ## Steps:
 1. Open the “film.ru” website;

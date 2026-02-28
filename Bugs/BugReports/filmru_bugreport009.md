@@ -9,8 +9,14 @@
 - When you go to the "Настройки" (Settings) section, scroll down to the bottom of the page, you'll see "Удалить эккаунт" (Delete account) button. It should be "Удалить аккаунт".
 
 ## Environment:
+
+### Desktop:
 - OS: Windows 11;
 - Browser: Microsoft Edge (version 145.0.3800.70).
+
+### Mobile:
+- OS: Android 13;
+- Browser: Google Chrome (version 145.0.7632.120).
 
 ## Steps:
 1. Open the “film.ru” website and sign in;
@@ -32,5 +38,8 @@
 
 ## Evidence:
 
-### Screenshot:
+### Screenshot 1:
 ![Screenshot Bug](../Media/filmru_spellingerror.png)
+
+### Screenshot 2:
+![Screenshot Mobile Bug](../Media/filmru_spellingerror_mobile.png)

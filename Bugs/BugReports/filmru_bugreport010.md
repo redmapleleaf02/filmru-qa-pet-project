@@ -9,8 +9,14 @@
 - In the account settings, when creating or changing a password, there are no frames, hints, or indicators of password strength. The system allows setting a password containing only one character.
 
 ## Environment:
+
+### Desktop:
 - OS: Windows 11;
 - Browser: Microsoft Edge (version 145.0.3800.70).
+
+### Mobile:
+- OS: Android 13;
+- Browser: Google Chrome (version 145.0.7632.120).
 
 ## Steps:
 1. Open the “film.ru” website and sign in;
