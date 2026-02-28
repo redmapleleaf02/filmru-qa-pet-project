@@ -8,10 +8,12 @@
 - UI Testing;
 - Functional Testing;
 - API Testing;
+- Mobile Testing;
 - Cross-Browser Testing.
 
 ## Tools:
 - Postman;
+- DevTools;
 - Git;
 - Markdown;
 - Microsoft Edge;
@@ -23,7 +25,7 @@
 - Registration and login;
 - Core functionality;
 - API endpoints;
-- Negative scenarios;
+- Mobile compatibility;
 - Cross-browser compatibility.
 
 ## Structure:
@@ -31,7 +33,6 @@
 - Checklists/ - checklists for each testing day;
 - Docs/ - test plan and other documents;
 - TestCases/ - formalized test cases;
-- API/ - Postman collections and API logs;
 - Reports/ - summary reports.
 
 ## Deliverables:

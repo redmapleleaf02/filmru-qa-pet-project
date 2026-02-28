@@ -4,7 +4,8 @@
 **Email:** zhetesulyeldos@gmail.com.
 
 **Change History:**
-- Version 1.0: Initial test plan created on 23.02.2026.
+- Version 1.0: Initial test plan created on 23.02.2026;
+- Version 1.1: Test plan was changed and updated.
 
 ---
 
@@ -24,6 +25,7 @@
 - Website functionality;
 - API;
 - Negative scenarios;
+- Mobile testing;
 - Compatibility / cross-browser testing (Microsoft Edge, Google Chrome, Mozilla Firefox).
 
 ---
@@ -63,8 +65,8 @@
 - **Day 2 (24.02.2026):** UI and site navigation (exploratory testing);
 - **Day 3 (25.02.2026):** Registration and login (boundary values, equivalence classes);
 - **Day 4 (26.02.2026):** Verification of core functionality;
-- **Day 5 (27.02.2026):** API testing (HTTP requests with Postman);
-- **Day 6 (28.02.2026):** Negative scenarios;
+- **Day 5 (27.02.2026):** API testing (HTTP requests with Postman and backend validation via Network monitoring);
+- **Day 6 (28.02.2026):** Mobile testing;
 - **Day 7 (01.03.2026):** Cross-browser testing.
 
 ---
