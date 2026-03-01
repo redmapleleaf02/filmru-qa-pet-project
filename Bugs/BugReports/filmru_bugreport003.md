@@ -10,7 +10,10 @@
 
 ## Environment:
 - OS: Windows 11;
-- Browser: Microsoft Edge (version 145.0.3800.70).
+- Browsers:
+  - Microsoft Edge (version 145.0.3800.70);
+  - Google Chrome (version 145.0.7632.117);
+  - Mozilla Firefox (version 148.0).
 
 ## Steps:
 1. Open the “film.ru” website;
